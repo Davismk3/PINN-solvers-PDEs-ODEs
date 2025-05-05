@@ -4,8 +4,8 @@ The following repository contains scripts for solving and validating complex ODE
 
 # Contents
 [pinn_burgers_equation.py](#pinn_burgers_equationpy)  
-[pinn_heat_equation.py](#pinn_heat_equationpy)   
-[pinn_nonlin_secnd_ord_ODE.py](#pinn_nonlin_secnd_ord_ODEpy)
+[pinn_heat_equation.py](#pinn_heat_equationpy)     
+[pinn_nonlin_secnd_ord_ODE.py](#pinn_nonlin_secnd_ord_ODEpy)  
 [pinn_transport_equation.py](#pinn_transport_equationpy)  
 [pinn_wave_equation.py](#pinn_wave_equationpy)  
 
