@@ -2,6 +2,11 @@
 
 The following repository contains scripts for solving and validating complex ODE, heat, wave, transport, and Burgers' equations using physics-informed neural networks with PyTorch. Each PDE is 1D, but plotted for visualization with time and the scalar solution as separate axes for an overal 3D plot.
 
+## Results
+
+![PINN Heat Solution](assets/pinn_heat_solution.png)
+![PINN Burgers' Solution](assets/pinn_burgers_solution.png)
+
 ## Contents
 [pinn_burgers_equation.py](#pinn_burgers_equationpy)  
 [pinn_heat_equation.py](#pinn_heat_equationpy)     
